@@ -26,7 +26,7 @@ const HomePage = () => {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-rose-900 text-white">
-      <h1 className="text-5xl font-bold mb-8">alwaysyou. Show Me a Memory</h1>
+      <h1 className="text-5xl font-bold mb-8">alwaysyou.</h1>
       <Link href="/dashboard">
         <button className="bg-pink-600 text-white py-2 px-4 rounded-md hover:bg-pink-700 mb-6">
           Add a Memory
