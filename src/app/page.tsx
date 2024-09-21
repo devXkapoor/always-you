@@ -25,7 +25,7 @@ const HomePage = () => {
   }, []);
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-pink-100">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-pink-400">
       <h1 className="text-3xl font-bold mb-8 text-pink-600">Show Me a Memory</h1>
       <button
         onClick={() => window.location.reload()}
