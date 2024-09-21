@@ -3,7 +3,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Link } from 'next/link';
+import Link  from 'next/link';
 
 const UploadPage = () => {
   const [text, setText] = useState('');
