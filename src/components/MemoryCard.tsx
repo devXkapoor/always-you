@@ -2,7 +2,10 @@
 
 import React from 'react';
 import Image from 'next/image';
+<<<<<<< HEAD
 
+=======
+>>>>>>> b225ec70418e8da55dc5e283cf65e230d1564287
 
 interface Memory {
     id: number;
